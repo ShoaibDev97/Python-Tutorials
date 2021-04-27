@@ -1,0 +1,12 @@
+import turtle
+shoaib_turtle = turtle.Turtle()
+shoaib_turtle.forward(100)
+shoaib_turtle.right(90)
+shoaib_turtle.forward(100)
+shoaib_turtle.right(90)
+shoaib_turtle.forward(100)
+shoaib_turtle.right(90)
+shoaib_turtle.forward(100)
+shoaib_turtle.right(90)
+shoaib_turtle.forward(10)
+input()
